@@ -8,7 +8,7 @@ function App() {
     <div className='App'>
       <header className='App-header'>Radar Chart DEMO</header>
       <div>
-        <ChartTest className='chart-container' />
+        <ChartTest />
       </div>
     </div>
   );
